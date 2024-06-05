@@ -4,12 +4,12 @@ I am Aastha Sheth, 19 years old. I am currently a computer science student at th
 To further fuel my learning and gain valuable industry experience, I'm actively seeking an internship opportunity. I'm eager to contribute my skills and knowledge to a collaborative and innovative environment, and I'm a fast learner who thrives in a challenging atmosphere.
 
 # Fun Facts:
-I love tacos (especially from Torchy's Taco) and cotton candy flavored icream from BR. ✨
-I like painting and coding
-Character I love : Loki 😆
-Book : Twisted Hate 👀
-Place : Switzerland 
-Movie : Rockstar (Hindi Film)🎸 
+- I love tacos (especially from Torchy's Taco) and cotton candy flavored icream from BR. ✨
+- I like painting and coding
+- Character I love : Loki 😆
+- Book : Twisted Hate 👀
+- Place : Switzerland 
+- Movie : Rockstar (Hindi Film)🎸 
 
 
 # Language I know
