@@ -8,8 +8,6 @@ To further fuel my learning and gain valuable industry experience, I'm actively 
 # Fun Facts:
 - I love tacos (especially from Torchy's Taco) and cotton candy flavored ice-cream from BR. ✨
 - I like painting and coding
-- Character I love : Loki 😆
-- Book : Twisted Hate 👀
 - Place : Switzerland 
 - Movie : Rockstar (Hindi Film)🎸 
 
