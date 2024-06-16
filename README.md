@@ -18,8 +18,11 @@ To further fuel my learning and gain valuable industry experience, I'm actively 
 - Python
 - C++
 
-# Currently working on: My website 😮‍💨
-# Planning on learning : JavaScript 
+Currently working on: My website 😮‍💨
+Planning on learning : JavaScript, SQL
+
+# Certifications
+CyberSecurity
 
 <!--
 **aasthas23/aasthas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
