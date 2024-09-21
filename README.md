@@ -17,9 +17,11 @@ To further fuel my learning and gain valuable industry experience, I'm actively 
 - HTML
 - Python
 - C++
+- Java
+- Assembly
 
-Currently working on: My website 😮‍💨
-Planning on learning : JavaScript, SQL
+Currently working on: IBM DevOps certifications
+Planning on learning : Swift
 
 # Certifications
 CyberSecurity
