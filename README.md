@@ -19,9 +19,7 @@ To further fuel my learning and gain valuable industry experience, I'm actively 
 - C++
 - Java
 - Assembly
-
-Currently working on: IBM DevOps certifications
-Planning on learning : Swift
+- Swift
 
 # Certifications
 CyberSecurity
